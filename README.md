@@ -4,6 +4,7 @@ About
 -----
 
 [![Build Status](https://webapi.biicode.com/v1/badges/fenix/fenix/wxwidgets/master)](https://www.biicode.com/fenix/wxwidgets) 
+[![Build Status](https://travis-ci.org/franramirez688/wxWidgets.svg?branch=bii_master)](https://travis-ci.org/franramirez688/wxWidgets)
 
 wxWidgets is a free and open source cross-platform C++ framework
 for writing advanced GUI applications using native controls.
