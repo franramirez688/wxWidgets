@@ -17,4 +17,6 @@ before_install:
 - rm cmake-3.0.2-Linux-64.tar.gz
 
 script:
-- bii init -l && bii open fenix/wxwidgets_ex && bii build
+- bii init -l
+- bii open fenix/wxwidgets_ex
+- bii build
