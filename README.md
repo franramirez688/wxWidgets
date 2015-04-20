@@ -1,5 +1,9 @@
+Adapted from original [wxWidgets repository](https://github.com/wxWidgets/wxWidgets) to biicode.
+
 About
 -----
+
+[![Build Status](https://webapi.biicode.com/v1/badges/fenix/fenix/wxwidgets/master)](https://www.biicode.com/fenix/wxwidgets) 
 
 wxWidgets is a free and open source cross-platform C++ framework
 for writing advanced GUI applications using native controls.
@@ -34,12 +38,10 @@ Most popular C++ compilers are supported including but not limited to:
 - Intel icc compiler.
 - Oracle (ex-Sun) aCC.
 
-
 Licence
 -------
 
-[wxWidgets licence](https://github.com/wxWidgets/wxWidgets/blob/master/docs/licence.txt)
-is a modified version of LGPL explicitly allowing not distributing the sources
+It's a modified version of LGPL explicitly allowing not distributing the sources
 of an application using the library even in the case of static linking.
 
 
@@ -54,7 +56,7 @@ If you are looking for support, you can get it from
 - http://stackoverflow.com/ if you tag your question with "wxwidgets"
 - Please report bugs at http://trac.wxwidgets.org/newticket
 
-We would also gladly welcome [your contributions](CONTRIBUTING.md).
+We would also gladly welcome your contributions (see CONTRIBUTING.md file)
 
 
 Have fun!
